@@ -1,42 +1,8 @@
-/*-----------------------------------------------------------------------------------
 
-    Theme Name: Crizal - Multipurpose Responsive Template + Admin
-    Description: Multipurpose Website Template + Admin + RTL
-    Author: Chitrakoot Web
-    Version: 3.1
-
------------------------------------------------------------------------------------*/
-
-/* ----------------------------------
-
-Table of contents
-        
-    01. Google font
-    02. Reset
-    03. Typography
-    04. Background color
-    05. Custom
-    06. Border
-    07. Background image
-    08. Margin
-    09. Padding
-    10. Display
-    11. Position
-    12. Width
-    13. Responsive Media Query
-    
----------------------------------- */
-
-/* ===================================
-    Google font
-====================================== */
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 
-/* ===================================
-    Reset
-====================================== */
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body{ font-family: 'DM Sans', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:16px; letter-spacing: 0.5px; color:#575a7b; font-weight: 400; line-height: 1.7; }

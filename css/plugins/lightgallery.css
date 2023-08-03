@@ -1,6 +1,4 @@
-/*! lightgallery - v1.9.0 - 2020-10-14
-* http://sachinchoolur.github.io/lightGallery/
-* Copyright (c) 2020 Sachin N; Licensed GPLv3 */
+
 @font-face {
   font-family: 'lg';
   src: url("../../fonts/lg.ttf?22t19m") format("truetype"), url("../../fonts/lg.woff?22t19m") format("woff"), url("../../fonts/lg.svg?22t19m#lg") format("svg");
@@ -9,7 +7,7 @@
   font-display: block;
 }
 .lg-icon {
-  /* use !important to prevent issues with browser extensions that change fonts */
+  
   font-family: 'lg' !important;
   speak: never;
   font-style: normal;
@@ -17,7 +15,7 @@
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  /* Better Font Rendering =========== */
+  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

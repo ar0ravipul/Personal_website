@@ -1,15 +1,4 @@
-/*-----------------------------------------------------------------------------------
 
-    Theme Name: Crizal - Multipurpose Responsive Template + Admin
-    Description: Multipurpose Website Template + Admin + RTL
-    Author: Chitrakoot Web
-    Version: 3.1
-
-    ---------------------------------- */
-    
-/* ===================================
-	Default Header style
-====================================== */
 
 header{ box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); transition: all 0.5s ease 0s; position: relative; z-index: 99999; }
 
